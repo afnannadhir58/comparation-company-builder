@@ -1,0 +1,7 @@
+streamlit
+yfinance==0.2.40
+pandas
+python-dotenv
+groq
+openpyxl
+fpdf2
